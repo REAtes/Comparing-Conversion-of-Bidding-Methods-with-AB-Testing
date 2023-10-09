@@ -13,8 +13,8 @@ pd.set_option('display.max_rows', 100)
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
 pd.set_option('display.width', 1500)
 
-control_df = pd.read_excel("ab_testing.xlsx", sheet_name="Control Group")
-test_df = pd.read_excel("ab_testing.xlsx", sheet_name="Test Group")
+control_df = pd.read_excel("data.xlsx", sheet_name="Control Group")
+test_df = pd.read_excel("data.xlsx", sheet_name="Test Group")
 
 
 def check_df(dataframe, head=5):
