@@ -24,7 +24,7 @@ The dataset used for this project contains information about user interactions w
 
 ### Performing the Hypothesis Test
 1. Conduct assumption checks before the hypothesis test, including normality assumption and homogeneity of variances.
-2. Select the appropriate test based on the assumption results and perform an independent two-sample t-test.
+2. Select the appropriate test based on the assumption results.
 3. Interpret the test results and determine if there is a statistically significant difference in purchase means between the control and test groups.
 
 ### Analysis of Results
