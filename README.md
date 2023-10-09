@@ -28,8 +28,7 @@ The dataset used for this project contains information about user interactions w
 3. Interpret the test results and determine if there is a statistically significant difference in purchase means between the control and test groups.
 
 ### Analysis of Results
-1. Discuss the test used and explain the reasons behind the choice.
-2. Provide recommendations to the client based on the test results.
+
 
 ## How to Use
 1. Clone this repository to your local machine.
